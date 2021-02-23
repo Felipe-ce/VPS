@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Storage" transform="translate(-2 -2)">
+    <path id="Caminho_977" data-name="Caminho 977" d="M50,16a3.009,3.009,0,0,0,3-3V5a3.009,3.009,0,0,0-3-3H14a3.009,3.009,0,0,0-3,3v8a3.009,3.009,0,0,0,3,3h1v2H14a3.009,3.009,0,0,0-3,3v8a3.009,3.009,0,0,0,3,3H50a3.009,3.009,0,0,0,3-3V21a3.009,3.009,0,0,0-3-3H49V16Zm0,4a1,1,0,0,1,1,1v8a1,1,0,0,1-1,1H14a1,1,0,0,1-1-1V21a1,1,0,0,1,1-1ZM17,18V16h4v2Zm6,0V16H41v2Zm20,0V16h4v2ZM14,14a1,1,0,0,1-1-1V5a1,1,0,0,1,1-1H50a1,1,0,0,1,1,1v8a1,1,0,0,1-1,1Z" fill="#2e3743"/>
+    <path id="Caminho_978" data-name="Caminho 978" d="M18,22a3,3,0,1,0,3,3,3,3,0,0,0-3-3Zm0,4a1,1,0,1,1,1-1A1,1,0,0,1,18,26Z" fill="#2e3743"/>
+    <path id="Caminho_979" data-name="Caminho 979" d="M26,22a3,3,0,1,0,3,3,3,3,0,0,0-3-3Zm0,4a1,1,0,1,1,1-1A1,1,0,0,1,26,26Z" fill="#2e3743"/>
+    <path id="Caminho_980" data-name="Caminho 980" d="M35,22H49v2H35Z" fill="#2e3743"/>
+    <path id="Caminho_981" data-name="Caminho 981" d="M31,22h2v2H31Z" fill="#2e3743"/>
+    <path id="Caminho_982" data-name="Caminho 982" d="M35,26H49v2H35Z" fill="#2e3743"/>
+    <path id="Caminho_983" data-name="Caminho 983" d="M31,26h2v2H31Z" fill="#2e3743"/>
+    <path id="Caminho_984" data-name="Caminho 984" d="M18,6a3,3,0,1,0,3,3A3,3,0,0,0,18,6Zm0,4a1,1,0,1,1,1-1A1,1,0,0,1,18,10Z" fill="#2e3743"/>
+    <path id="Caminho_985" data-name="Caminho 985" d="M26,6a3,3,0,1,0,3,3A3,3,0,0,0,26,6Zm0,4a1,1,0,1,1,1-1A1,1,0,0,1,26,10Z" fill="#2e3743"/>
+    <path id="Caminho_986" data-name="Caminho 986" d="M35,6H49V8H35Z" fill="#2e3743"/>
+    <path id="Caminho_987" data-name="Caminho 987" d="M31,6h2V8H31Z" fill="#2e3743"/>
+    <path id="Caminho_988" data-name="Caminho 988" d="M35,10H49v2H35Z" fill="#2e3743"/>
+    <path id="Caminho_989" data-name="Caminho 989" d="M31,10h2v2H31Z" fill="#2e3743"/>
+    <path id="Caminho_990" data-name="Caminho 990" d="M53,44H50.94a8.977,8.977,0,0,0-14.18-6.3,14.982,14.982,0,0,0-26.45,6.34A8.993,8.993,0,0,0,11,62H53a9,9,0,1,0,0-18Zm4.96,13.95A7.034,7.034,0,0,1,53,60H11a7,7,0,1,1,0-14h.12A7.042,7.042,0,0,1,18,53h2a9.049,9.049,0,0,0-7.67-8.89A13,13,0,0,1,38,47h2a14.907,14.907,0,0,0-2.11-7.65A6.994,6.994,0,1,1,42,52v2a9.016,9.016,0,0,0,8.94-8H53a7.007,7.007,0,0,1,4.96,11.95Z" fill="#2e3743"/>
+    <path id="Caminho_991" data-name="Caminho 991" d="M32,56v2H11a5,5,0,0,1,0-10v2a3,3,0,0,0,0,6Z" fill="#2e3743"/>
+  </g>
+</svg>
