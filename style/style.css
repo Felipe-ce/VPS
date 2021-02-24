@@ -116,12 +116,12 @@ img {
 
 /* Intro */
 .intro {
-  background: linear-gradient(90deg,
-    var(--cor-base-1) 0%,
-    var(--cor-base-5) 100%
-  );
-border-bottom-right-radius: 130px;
+background: url(../img/a.jpg) no-repeat;
+background-position: bottom ;
+background-size: cover;
 }
+.intro::after{
+} 
 .intro-content {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -130,8 +130,8 @@ border-bottom-right-radius: 130px;
   align-items: center;
   justify-items: center;
   color: #fff;
-
 }
+
 .intro-content > div {
   display: grid;
   gap: 15px;
