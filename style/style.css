@@ -1,4 +1,49 @@
-img{
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+:root {
+  /* cor de base */
+  --cor-base-1: #0036b3;
+  --cor-base-2: #085ecc;
+  --cor-base-3: #0170fe;
+  --cor-base-4: #26a0fe;
+  --cor-base-5: #33befe;
+
+  /* cor de destaque */
+  --cor-destaque: #e6250c;
+  --cor-destaque-hover: #cc1104;
+
+  /* cor de Suporte */
+  --cor-suporte-subtitulo: #171e26;
+  --cor-suporte-titulo: #2e3743;
+  --cor-suporte-corpo: #434c59;
+
+  /* cor de Suporte bg*/
+  --cor-suporte-bg-1: #F0F3F7;
+  --cor-suporte-bg-2: #E4E8ED;
+  --cor-suporte-bg-3: #C3CDD9;
+
+  /* Fontes */
+  --titulo: 'Poppins', sans-serif; 
+  --corpo: 'Source Sans Pro', sans-serif;
+}
+
+/* 
+  Espaçamento: 5, 10, 15, 20, 30, 60, 120 
+  fonte Poppins: 18, 22, 32, 36
+  fonte Source: 16, 18, 22
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+*/
+
+
+img {
   width: 150px;
   max-width: 100%;
 }
