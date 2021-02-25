@@ -84,7 +84,7 @@ body {
   display: inline-block;
   margin-top: 10px;
 
-  transition: all 200ms ease-in-out;
+  transition: all 100ms ease-in;
 }
 .btn-b{
   background: var(--cor-suporte-corpo);
@@ -151,7 +151,7 @@ img {
   background-size: cover; */
 }
 .intro img{
-  transition: all 200ms ease-in-out;
+  transition: all 100ms ease-in;
 }
 .intro img:hover{
   -moz-transform: translate(0px, -4px);
@@ -222,7 +222,7 @@ p {
   text-align: center;
   border: solid 1px var(--cor-suporte-subtitulo);
   padding: 20px;
-  transition: all 200ms ease-in-out;
+  transition: all 100ms ease-in;
 }
 .info-item:hover {
   background: var(--cor-suporte-bg-1);
@@ -272,7 +272,6 @@ p {
   transition: all 100ms ease-in;
 }
 .planos-item:hover{
-  background: #E6250C;
   -moz-transform: translate(0px, -4px);
   -webkit-transform: translate(0px, -4px);
   -o-transform: translate(0px, -4px);
@@ -337,7 +336,7 @@ p {
   display: inline-block;
   margin-top: 30px;
 
-  transition: all 100ms ease-in-out;
+  transition: all 100ms ease-in;
 }
 
 .btn-planos:hover {
