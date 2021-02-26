@@ -206,7 +206,6 @@ img {
 .planos p,
 .vantagens h2,
 .vantagens p {
-
   grid-column: span 3;
 }
 .info h2 {
@@ -381,18 +380,19 @@ img {
   );
   clip-path: polygon(0 15%, 100% 0, 100% 85%, 0% 100%);
 }
-.forma-faq1, .forma-faq2{
+.forma-faq1,
+.forma-faq2 {
   z-index: -1;
   position: absolute;
 }
-.forma-faq1{
+.forma-faq1 {
   top: 30px;
   left: -100px;
 }
-.forma-faq2{
+.forma-faq2 {
   top: 200px;
   left: -150px;
-  opacity: .5;
+  opacity: 0.5;
 }
 .faq-content {
   display: grid;
@@ -402,15 +402,17 @@ img {
   position: relative;
   gap: 40px 20px;
 }
-.faq h2{
-  grid-column: span 2;
-
+.faq h2 {
+  grid-column: span 1;
 }
 .faq-lista li {
   font-weight: bold;
   font-size: 1.125em;
   margin-top: 15px;
 }
-
+.faq-atendente {
+  grid-column: 2;
+  grid-row: 1 / 3;
+}
 
 /* Contato */
