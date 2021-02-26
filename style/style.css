@@ -373,7 +373,7 @@ img {
 
 /* Faq */
 .faq {
-  height: 700px;
+  height: 800px;
   background: linear-gradient(
     90deg,
     var(--cor-suporte-bg-3) 0%,
@@ -381,15 +381,35 @@ img {
   );
   clip-path: polygon(0 15%, 100% 0, 100% 85%, 0% 100%);
 }
+.forma-faq1, .forma-faq2{
+  z-index: -1;
+  position: absolute;
+}
+.forma-faq1{
+  top: 30px;
+  left: -100px;
+}
+.forma-faq2{
+  top: 200px;
+  left: -150px;
+  opacity: .5;
+}
 .faq-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  height: 700px;
+  height: 800px;
   align-content: center;
+  position: relative;
+  gap: 40px 20px;
+}
+.faq h2{
+  grid-column: span 2;
+
 }
 .faq-lista li {
   font-weight: bold;
   font-size: 1.125em;
+  margin-top: 15px;
 }
 
 
